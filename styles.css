@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    vertical-align: baseline;
+}
+
+body {
+    font-family: 'Dosis';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+
+#quote-box {
+    position: relative;
+    width: 500px;
+    padding: 50px;
+    border: solid 2px #657786
+}
+
+#text {
+    font-weight: 600;
+    font-size: 22px;
+    padding-bottom: 10px;
+}
+
+#author {
+    text-align: right;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+#btn-box {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+#new-quote {
+    background-color: #1DA1F2;
+    color: white;
+    height: 35px;
+    width: 90px;
+    border-radius: 8%;
+    border: none;
+}
+
+#new-quote { cursor: pointer; }
+
+#text-box {
+    display: flex;
+}
+
+#left-quote {
+    padding-right: 10px;
+}
