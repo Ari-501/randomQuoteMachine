@@ -1,4 +1,4 @@
-Front End Development Libraries = Build a Random Quote Machine
+# Front End Development Libraries - Build a Random Quote Machine
 
 Solution Link (live link): https://arig501.github.io/randomQuoteMachine/
 
