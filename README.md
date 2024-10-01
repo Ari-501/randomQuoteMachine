@@ -1,6 +1,6 @@
 # Front End Development Libraries - Build a Random Quote Machine
 
-Solution Link (live link): https://arig501.github.io/randomQuoteMachine/
+Solution Link (live link): https://ari-501.github.io/randomQuoteMachine/
 
 Objective: Build an app that is functionally similar to this: https://random-quote-machine.freecodecamp.rocks/.
 
